@@ -67,25 +67,25 @@ author:
       url: "https://www.iesthosicodina.cat/"
     - label: " X "
       icon: "fa-solid fa-square-x"
-      url: "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://twitter.com/InsThos/status/1781249973532664080&ved=2ahUKEwit06-a_ZiLAxWHX_EDHaKZNecQFnoECBoQAQ&usg=AOvVaw3_H4RsWW-L1MrckS-AFw-p"
+      url: "https://twitter.com/insthos?lang=ca"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/vendroxx"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/insthosicodina/%3Fhl%3Des&ved=2ahUKEwi-tp7I_ZiLAxWXSPEDHVfHEl8QFnoECBMQAQ&usg=AOvVaw1CS3WJNYXWUdzyfHavyzGQ"
+      url: "https:https://instagram.com/insthosicodina"
 
 footer:
   links:
     - label: " X "
       icon: "fa-solid fa-square-x"
-      url: "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://twitter.com/InsThos/status/1781249973532664080&ved=2ahUKEwit06-a_ZiLAxWHX_EDHaKZNecQFnoECBoQAQ&usg=AOvVaw3_H4RsWW-L1MrckS-AFw-p"
+      url: "https://twitter.com/insthos?lang=ca"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/vendroxx"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/insthosicodina/%3Fhl%3Des&ved=2ahUKEwi-tp7I_ZiLAxWXSPEDHVfHEl8QFnoECBMQAQ&usg=AOvVaw1CS3WJNYXWUdzyfHavyzGQ"
+      url: "https://instagram.com/insthosicodina"
 
 defaults:
   # _posts
