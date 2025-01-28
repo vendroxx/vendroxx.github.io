@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "First Lastname"
-  avatar : "/assets/images/logVendrox.png"
+  avatar : "/assets/images/logvendrox.png"
   bio    : "Proyecto individual de Ubaldo Gomez / M12 / SMX2 / G5 ."
   links:
     - label: "Thos i Codina"
