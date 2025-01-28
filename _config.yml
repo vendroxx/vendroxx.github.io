@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "M.U.G.L."
   avatar : "/assets/images/logvendrox.png"
-  bio    : "Proyecto individual de Ubaldo Gomez / M12 / SMX2 / G5 ."
+  bio    : "Proyecto M12 / SMX2 / G5 | Ubaldo Gomez."
   links:
     - label: "Thos i Codina"
       icon: "fas fa-fw fa-link"
