@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CyberHorizons
+title: "CyberHorizons"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dirt
 search: true
 
 # Build settings
@@ -59,33 +59,33 @@ plugins:
 
 author:
   name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/logVendrox.png"
+  bio    : "Proyecto individual de Ubaldo Gomez / M12 / SMX2 / G5 ."
   links:
-    - label: "Website"
+    - label: "Thos i Codina"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://www.iesthosicodina.cat/"
+    - label: "X"
+      icon: "fa-solid fa-square-x"
+      url: "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://twitter.com/InsThos/status/1781249973532664080&ved=2ahUKEwit06-a_ZiLAxWHX_EDHaKZNecQFnoECBoQAQ&usg=AOvVaw3_H4RsWW-L1MrckS-AFw-p"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/vendroxx"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/insthosicodina/%3Fhl%3Des&ved=2ahUKEwi-tp7I_ZiLAxWXSPEDHVfHEl8QFnoECBMQAQ&usg=AOvVaw1CS3WJNYXWUdzyfHavyzGQ"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "X"
+      icon: "fa-solid fa-square-x"
+      url: "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://twitter.com/InsThos/status/1781249973532664080&ved=2ahUKEwit06-a_ZiLAxWHX_EDHaKZNecQFnoECBoQAQ&usg=AOvVaw3_H4RsWW-L1MrckS-AFw-p"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/vendroxx"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/insthosicodina/%3Fhl%3Des&ved=2ahUKEwi-tp7I_ZiLAxWXSPEDHVfHEl8QFnoECBMQAQ&usg=AOvVaw1CS3WJNYXWUdzyfHavyzGQ"
 
 defaults:
   # _posts
