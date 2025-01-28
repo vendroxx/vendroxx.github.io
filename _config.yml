@@ -65,7 +65,7 @@ author:
     - label: "Thos i Codina"
       icon: "fas fa-fw fa-link"
       url: "https://www.iesthosicodina.cat/"
-    - label: "X"
+    - label: " X "
       icon: "fa-solid fa-square-x"
       url: "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://twitter.com/InsThos/status/1781249973532664080&ved=2ahUKEwit06-a_ZiLAxWHX_EDHaKZNecQFnoECBoQAQ&usg=AOvVaw3_H4RsWW-L1MrckS-AFw-p"
     - label: "GitHub"
@@ -77,7 +77,7 @@ author:
 
 footer:
   links:
-    - label: "X"
+    - label: " X "
       icon: "fa-solid fa-square-x"
       url: "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://twitter.com/InsThos/status/1781249973532664080&ved=2ahUKEwit06-a_ZiLAxWHX_EDHaKZNecQFnoECBoQAQ&usg=AOvVaw3_H4RsWW-L1MrckS-AFw-p"
     - label: "GitHub"
