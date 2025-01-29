@@ -9,7 +9,4 @@ author_profile: true
 En **M12**, nuestro objetivo es **fortalecer la seguridad** de los sistemas de servidores de nuestros compañeros. 
 A través de análisis y pruebas, buscamos identificar vulnerabilidades y mejorar la protección de datos, 
 asegurando un entorno digital más seguro para todos. ¡Únete a nosotros en esta misión de ciberseguridad!
-- Grup 1
-- Grup 2
-- Grup 3
 
