@@ -10,9 +10,7 @@ En **M12**, nuestro objetivo es **fortalecer la seguridad** de los sistemas de s
 A través de análisis y pruebas, buscamos identificar vulnerabilidades y mejorar la protección de datos, 
 asegurando un entorno digital más seguro para todos. ¡Únete a nosotros en esta misión de ciberseguridad!
 
-1. Tabla Resumida
 
-Crea una tabla para organizar la información de manera clara.
 Grupos	IPs	Servicios
 Grupo A	192.168.1.1	HTTP, SSH
 Grupo B	192.168.1.2	FTP, DNS
@@ -21,19 +19,23 @@ Grupo C	192.168.1.3	SMTP, HTTPS
 
 Utiliza listas para destacar cada elemento.
 
-    Grupos:
-        Grupo A
-        Grupo B
-        Grupo C
+    **Grupo: 1**
 
     IPs:
-        192.168.1.1
-        192.168.1.2
-        192.168.1.3
+        192.168.1.1 - DNS
+            Puertos: 
+                22, 53
+        
+        192.168.1.2 - Apache
+            Puertos:
+                
+        192.168.1.3 - AD
+        Puertos: 
+    53,80,88,135,139,389,445,464,593,636,3268,3269,3389,5985,9389,47001,49664,49665,49666,49667,49668,49670,49671,49672,49673,49676,49680,49692,49790 
 
     Servicios:
-        HTTP, SSH
-        FTP, DNS
+        SSh, Bind9
+        Apache, DNS
         SMTP, HTTPS
 
 3. Secciones con Encabezados
