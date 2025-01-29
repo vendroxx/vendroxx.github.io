@@ -11,15 +11,8 @@ A través de análisis y pruebas, buscamos identificar vulnerabilidades y mejora
 asegurando un entorno digital más seguro para todos. ¡Únete a nosotros en esta misión de ciberseguridad!
 
 
-Grupos	IPs	Servicios
-Grupo A	192.168.1.1	HTTP, SSH
-Grupo B	192.168.1.2	FTP, DNS
-Grupo C	192.168.1.3	SMTP, HTTPS
-2. Listas con Viñetas
 
-Utiliza listas para destacar cada elemento.
-
-    **Grupo: 1**
+**Gruipo 1**
 
     IPs:
         192.168.1.1 - DNS
@@ -51,28 +44,36 @@ Utiliza listas para destacar cada elemento.
     49664-49680, 49692, 49790: puertos dinámicos
 
 
-    Servicios:
-        SSh, Bind9
-        Apache, DNS
-        SMTP, HTTPS
+   
+**Grupo 3**
 
-3. Secciones con Encabezados
+    IPs:
+        192.168.3.10 - Apache
+            Puertos: 
+               
+        
+        192.168.3.20 - DNS
+            Puertos:
+                
+        192.168.3.30 - AD
+        Puertos: 
+    
+    53: domain
+    80: http
+    88: kerberos-sec
+    135: msrpc
+    139: netbios-ssn
+    389: ldap
+    445: microsoft-ds
+    464: kpasswd5
+    593: http-rpc-epmap
+    636: ldapssl
+    3268: globalcatLDAP
+    3269: globalcatLDAPssl
+    3389: ms-wbt-server
+    5985: wsman
+    9389: adws
+    47001: winrm
+    49664-49680, 49692, 49790: puertos dinámicos
 
-Divide la información en secciones con encabezados claros.
-Grupos
 
-    Grupo A
-    Grupo B
-    Grupo C
-
-IPs
-
-    192.168.1.1
-    192.168.1.2
-    192.168.1.3
-
-Servicios
-
-    HTTP, SSH
-    FTP, DNS
-    SMTP, HTTPS
