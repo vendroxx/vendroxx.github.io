@@ -1,9 +1,9 @@
-main:
-  - title: "Home"
-    url: /Home/
-  - title: "Articulos"
-    url: /Articulos/
-  - title: "Categorias"
-    url: /Categorias/
-  - title: "Etiquetas"
-    url: /Etiquetas/
+#main:
+#  - title: "Home"
+#    url: /Home/
+#  - title: "Articulos"
+#    url: /Articulos/
+#  - title: "Categorias"
+#    url: /Categorias/
+#  - title: "Etiquetas"
+#    url: /Etiquetas/
