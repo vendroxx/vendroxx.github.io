@@ -31,7 +31,25 @@ Utiliza listas para destacar cada elemento.
                 
         192.168.1.3 - AD
         Puertos: 
-    53,80,88,135,139,389,445,464,593,636,3268,3269,3389,5985,9389,47001,49664,49665,49666,49667,49668,49670,49671,49672,49673,49676,49680,49692,49790 
+    
+    53: domain
+    80: http
+    88: kerberos-sec
+    135: msrpc
+    139: netbios-ssn
+    389: ldap
+    445: microsoft-ds
+    464: kpasswd5
+    593: http-rpc-epmap
+    636: ldapssl
+    3268: globalcatLDAP
+    3269: globalcatLDAPssl
+    3389: ms-wbt-server
+    5985: wsman
+    9389: adws
+    47001: winrm
+    49664-49680, 49692, 49790: puertos dinámicos
+
 
     Servicios:
         SSh, Bind9
