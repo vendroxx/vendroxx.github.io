@@ -15,7 +15,7 @@ asegurando un entorno digital más seguro para todos. ¡Únete a nosotros en est
 **Gruipo 1**
 
         IP: 10.45.1.1
-    Puertos:
+    Puertos Abiertos:
     
     22: ssh - OpenSSH 9.2p1 Debian
     53: domain - ISC BIND 9.18.28-1~deb12u2
@@ -24,7 +24,7 @@ asegurando un entorno digital más seguro para todos. ¡Únete a nosotros en est
 
         
         IP: 10.45.1.2
-    Puertos:
+    Puertos Abiertos:
     
     22: ssh - OpenSSH 8.9p1 Ubuntu
     80: http - Apache httpd 2.4.52
@@ -35,7 +35,7 @@ asegurando un entorno digital más seguro para todos. ¡Únete a nosotros en est
 
                 
        IP: 10.45.1.3
-    Puertos:
+    Puertos Abiertos:
     
     53: domain - Simple DNS Plus
     80: http - Microsoft IIS httpd 10.0
@@ -59,7 +59,7 @@ asegurando un entorno digital más seguro para todos. ¡Únete a nosotros en est
 **Grupo 2**
 
        IP: 10.45.2.3
-    Puertos:
+    Puertos Abiertos:
     
     21: ftp - ProFTPD (FtpMonFrague)
     22: ssh - OpenSSH 9.6p1 Ubuntu
@@ -72,7 +72,7 @@ asegurando un entorno digital más seguro para todos. ¡Únete a nosotros en est
                
         
        IP: 10.45.2.11
-    Puertos:
+    Puertos Abiertos:
     
     53: domain - ISC BIND 9.18.28-1~deb12u2 (Debian Linux)
 
@@ -80,76 +80,63 @@ asegurando un entorno digital más seguro para todos. ¡Únete a nosotros en est
 
                 
         IP: 10.45.2.
-    Puertos:
-    
-    
-
-    OS: Windows
+    pendiente de escaneo
 
 **Grupo 3**
 
-       IP: 10.45.2.3
-    Puertos:
+       IP: 10.45.3.10
+    Puertos Abiertos:
     
-    21: ftp - ProFTPD (FtpMonFrague)
-    22: ssh - OpenSSH 9.6p1 Ubuntu
-    80: http - Apache httpd 2.4.58 (Ubuntu)
-    443: ssl/http - Apache httpd 2.4.58 (Ubuntu)
-    8080: http - Apache httpd 2.4.58 (Ubuntu)
+    53: domain - Simple DNS Plus
+    80: http - Microsoft IIS httpd 10.0
+    88: kerberos-sec - Microsoft Windows Kerberos
+    135: msrpc - Microsoft Windows RPC
+    139: netbios-ssn - Microsoft Windows netbios-ssn
+    389: ldap - Microsoft Windows Active Directory LDAP
+    445: microsoft-ds - ?
+    464: kpasswd5 - ?
+    593: ncacn_http - Microsoft Windows RPC over HTTP 1.0
+    636: tcpwrapped - ?
+    3268: ldap - Microsoft Windows Active Directory LDAP
+    3269: tcpwrapped - ?
+    3389: ms-wbt-server - Microsoft Terminal Services
+    5357: http - Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+    5985: http - Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
 
-    OS: Linux
+        OS: Windows
 
-               
+       
         
-       IP: 10.45.2.11
-    Puertos:
+      IP: 10.45.3.20
+    Puertos Abiertos:
     
     53: domain - ISC BIND 9.18.28-1~deb12u2 (Debian Linux)
 
-    OS: Linux
+        OS: Linux
 
-                
-        IP: 10.45.2.
-    Puertos:
-    
-    
 
-    OS: Windows
+
+        IP: 10.45.3.30
+    Puertos Abiertos:
+    
+    22: ssh - OpenSSH 8.9p1 Ubuntu
+    80: http - Apache httpd 2.4.52
+    443: http - Apache httpd 2.4.52
+    8080: http - Apache httpd 2.4.52
+
+        OS: Linux
+
+
 
 **Grupo 4**
 
-       IP: 10.45.2.3
-    Puertos:
+    pendiente de escaneo
+
     
-    21: ftp - ProFTPD (FtpMonFrague)
-    22: ssh - OpenSSH 9.6p1 Ubuntu
-    80: http - Apache httpd 2.4.58 (Ubuntu)
-    443: ssl/http - Apache httpd 2.4.58 (Ubuntu)
-    8080: http - Apache httpd 2.4.58 (Ubuntu)
-
-    OS: Linux
-
-               
-        
-       IP: 10.45.2.11
-    Puertos:
-    
-    53: domain - ISC BIND 9.18.28-1~deb12u2 (Debian Linux)
-
-    OS: Linux
-
-                
-        IP: 10.45.2.
-    Puertos:
-    
-    
-
-    OS: Windows
-
 **Grupo 5**
 
        IP: 10.45.2.3
-    Puertos:
+    Puertos Abiertos:
     
     21: ftp - ProFTPD (FtpMonFrague)
     22: ssh - OpenSSH 9.6p1 Ubuntu
@@ -162,7 +149,7 @@ asegurando un entorno digital más seguro para todos. ¡Únete a nosotros en est
                
         
        IP: 10.45.2.11
-    Puertos:
+    Puertos Abiertos:
     
     53: domain - ISC BIND 9.18.28-1~deb12u2 (Debian Linux)
 
@@ -170,7 +157,7 @@ asegurando un entorno digital más seguro para todos. ¡Únete a nosotros en est
 
                 
         IP: 10.45.2.
-    Puertos:
+    Puertos Abiertos:
     
     
 
@@ -178,32 +165,103 @@ asegurando un entorno digital más seguro para todos. ¡Únete a nosotros en est
 
 **Grupo 6**
 
-       IP: 10.45.2.3
-    Puertos:
+      IP: 10.45.6.3
+    Puertos Abiertos:
     
-    21: ftp - ProFTPD (FtpMonFrague)
-    22: ssh - OpenSSH 9.6p1 Ubuntu
-    80: http - Apache httpd 2.4.58 (Ubuntu)
-    443: ssl/http - Apache httpd 2.4.58 (Ubuntu)
-    8080: http - Apache httpd 2.4.58 (Ubuntu)
-
-    OS: Linux
-
-               
-        
-       IP: 10.45.2.11
-    Puertos:
-    
-    53: domain - ISC BIND 9.18.28-1~deb12u2 (Debian Linux)
-
-    OS: Linux
-
-                
-        IP: 10.45.2.
-    Puertos:
-    
-    
+    135: msrpc - Microsoft Windows RPC
+    5040: unknown - (no service detected)
 
     OS: Windows
+
+**Grupo 7**
+
+        IP: 10.45.7.1
+    Puertos Abiertos:
+
+    53: domain - DNS
+    80: http - Apache
+    88: kerberos-sec - Kerberos
+    135: msrpc - Microsoft Windows RPC
+    139: netbios-ssn - NetBIOS Session Service
+    389: ldap - LDAP
+    445: microsoft-ds - SMB
+    464: kpasswd5 - Kerberos Password
+    593: http-rpc-epmap - RPC over HTTP
+    636: ldapssl - LDAP over SSL
+    3268: globalcatLDAP - Global Catalog LDAP
+    3269: globalcatLDAPssl - Global Catalog LDAP over SSL
+    3389: ms-wbt-server - RDP
+    5357: wsdapi - Web Services for Devices API
+    5985: wsman - Windows Remote Management
+    9389: adws - Active Directory Web Services
+    49667: unknown
+    49675: unknown
+    49676: unknown
+    49677: unknown
+    49681: unknown
+    49693: unknown
+    49810: unknown
+
+
+        IP: 10.45.7.2
+    Puertos Abiertos:
+
+    21: ftp - Protocolo de transferencia de archivos
+    22: ssh - Secure Shell
+    80: http - Protocolo de transferencia de hipertexto
+    443: https - HTTP seguro
+    8080: http-proxy - Proxy HTTP
+
+MAC Address: 08:00:27:9F:A8:A6
+
+
+
+
+**Grupo 8**
+
+        IP: 10.45.8.1
+
+    Puertos Abiertos:
+        21: ftp
+        22: ssh
+        53: domain (DNS)
+    Estado: Up
+    Puertos Cerrados: 65,532
+
+        IP: 10.45.8.2
+
+    Puertos Abiertos:
+        53: domain (DNS)
+        80: http
+        88: kerberos-sec
+        135: msrpc
+        139: netbios-ssn
+        389: ldap
+        443: https
+        445: microsoft-ds
+        464: kpasswd5
+        593: http-rpc-epmap
+        636: ldapssl
+        3268: globalcatLDAP
+        3269: globalcatLDAPssl
+        3387: backroomnet
+        3389: ms-wbt-server
+        5357: wsdapi
+        5504: fcp-cics-gw1
+        5985: wsman
+        9389: adws
+        47001: winrm
+    Estado: Up
+    Puertos Cerrados: 58,143
+    Puertos Filtrados: 7,358
+
+                IP: 10.45.8.4
+
+            Puertos Abiertos:
+        80: http
+        8080: http-proxy
+            Estado: Up
+            Puertos Cerrados: 65,533
+
 
 
