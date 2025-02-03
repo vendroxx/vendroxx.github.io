@@ -10,6 +10,33 @@ En **M12**, nuestro objetivo es **fortalecer la seguridad** de los sistemas de s
 A través de análisis y pruebas, buscamos identificar vulnerabilidades y mejorar la protección de datos, 
 asegurando un entorno digital más seguro para todos. ¡Únete a nosotros en esta misión de ciberseguridad!
 
+**Servicios y sus significados**
+
+| **Puerto** | **Servicio**       | **Descripción**                                                                 |
+|------------|--------------------|---------------------------------------------------------------------------------|
+| 21         | FTP                | Protocolo de transferencia de archivos, utilizado para subir y bajar archivos. |
+| 22         | SSH                | Protocolo seguro para acceder a sistemas de forma remota y transferir archivos. |
+| 53         | DNS                | Sistema de nombres de dominio, traduce nombres de dominio a direcciones IP.    |
+| 80         | HTTP               | Protocolo de transferencia de hipertexto, utilizado para la navegación web.     |
+| 88         | Kerberos-sec       | Protocolo de autenticación que permite la comunicación segura en redes.         |
+| 135        | MSRPC              | Protocolo de llamada a procedimiento remoto de Microsoft, usado para servicios.  |
+| 139        | NetBIOS-SSN       | Protocolo para compartir archivos e impresoras en redes locales.                |
+| 389        | LDAP               | Protocolo de acceso ligero a directorios, utilizado para acceder a servicios de directorio. |
+| 443        | HTTPS              | HTTP seguro, utilizado para la navegación web segura.                           |
+| 445        | Microsoft-DS       | Protocolo para compartir archivos e impresoras en redes Windows.                |
+| 464        | Kpasswd5           | Protocolo para cambiar contraseñas en Kerberos.                                 |
+| 593        | HTTP-RPC-EPMAP     | Protocolo para la comunicación de servicios RPC sobre HTTP.                     |
+| 636        | LDAPSSL            | LDAP sobre SSL, versión segura del protocolo LDAP.                              |
+| 3268       | GlobalCatLDAP      | Protocolo para acceder al catálogo global de Active Directory.                  |
+| 3269       | GlobalCatLDAPSSL   | Versión segura del acceso al catálogo global de Active Directory.               |
+| 3387       | Backroomnet        | Protocolo utilizado para la comunicación en ciertos sistemas.                   |
+| 3389       | MS-WBT-Server      | Protocolo de escritorio remoto de Microsoft (RDP).                              |
+| 5357       | WSDAPI             | Protocolo para servicios web en dispositivos.                                    |
+| 5504       | FCP-CICS-GW1       | Protocolo utilizado para la comunicación en sistemas mainframe.                 |
+| 5985       | WSMan              | Protocolo para la gestión de sistemas a través de web services.                 |
+| 9389       | ADWS               | Servicios web de Active Directory, utilizado para acceder a directorios.       |
+| 47001      | WinRM              | Protocolo de gestión remota de Windows.                                         |
+| 8080       | HTTP-Proxy         | Puerto alternativo para el tráfico HTTP, a menudo utilizado para proxies.      |
 
 
 **Gruipo 1**
