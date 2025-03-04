@@ -117,5 +117,5 @@ La certificación **Offensive Security Certified Professional (OSCP)** es una de
 
 ---
 ## 🏆 Conclusión
-Este plan estructurado te guiará paso a paso hasta obtener la certificación OSCP. La clave está en la **práctica constante** y la **documentación de tus hallazgos**. ¡Mucho éxito en tu camino para convertirte en un OSCP certificado! 💪🚀
+Este plan estructurado te guiará paso a paso hasta obtener la certificación OSCP. La clave está en la **práctica constante** y la **documentación de tus hallazgos**. 
 
