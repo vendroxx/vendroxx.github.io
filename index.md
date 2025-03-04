@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 
-# 🔒 Plan de Metas para Obtener la Certificación OSCP
+
 
 ## 💡 Introducción
 La certificación **Offensive Security Certified Professional (OSCP)** es una de las más respetadas en ciberseguridad ofensiva. Requiere habilidades en pruebas de penetración, explotación de sistemas y redacción de informes. Este plan establece **metas claras** y herramientas recomendadas para aprobar el examen.
