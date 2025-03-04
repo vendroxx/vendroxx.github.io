@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-
+# 🔒 Plan de Metas para Obtener la Certificación OSCP
 
 
 ## 💡 Introducción
